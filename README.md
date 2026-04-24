@@ -214,25 +214,33 @@ Two cpu_hog containers launched simultaneously:
 ## Screenshots
 
 ### 1. Multi-container supervision
-![multi-container](screenshots/01-multi-container.png)
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/0247bcea-10e6-450a-945c-5c0d918e0139" />
+
 
 ### 2. Metadata tracking
-![ps-metadata](screenshots/02-ps-metadata.png)
+<img width="1280" height="332" alt="image" src="https://github.com/user-attachments/assets/7ceaa5d9-2f62-4c7e-b2eb-e9194d636b07" />
+
 
 ### 3. Bounded-buffer logging
-![logging](screenshots/03-logging.png)
+<img width="1280" height="175" alt="image" src="https://github.com/user-attachments/assets/cc242c24-55e2-4da0-a090-870134367d01" />
+
 
 ### 4. CLI and IPC
-![cli-ipc](screenshots/04-cli-ipc.png)
+<img width="1280" height="139" alt="image" src="https://github.com/user-attachments/assets/cb45c215-8b4b-4d2d-815a-eb13dc3dab51" />
+
 
 ### 5. Soft-limit warning
-![soft-limit](screenshots/05-soft-limit.png)
+]<img width="1280" height="192" alt="image" src="https://github.com/user-attachments/assets/656926ee-7c2b-4124-8748-3bb9ccaf0a5c" />
+
 
 ### 6. Hard-limit enforcement
-![hard-limit](screenshots/06-hard-limit.png)
+<img width="1280" height="194" alt="image" src="https://github.com/user-attachments/assets/35f391fc-d404-4488-abc1-a912a81d6735" />
+
 
 ### 7. Scheduling experiment
-![scheduling](screenshots/07-scheduling.png)
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/10dccbfb-8963-4d57-ab36-d0447dc71339" />
+
 
 ### 8. Clean teardown
-![teardown](screenshots/08-teardown.png)
+<img width="1280" height="597" alt="image" src="https://github.com/user-attachments/assets/c069913f-a849-4453-8e22-f461d028f6a3" />
+
